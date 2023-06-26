@@ -1,5 +1,7 @@
 [English](./README-en_US.md) | 简体中文
 
+fork [vue-request](https://github.com/AttoJS/vue-request) 对类型做部分调整
+
 <p align="center">
   <a href="https://www.attojs.com">
     <img

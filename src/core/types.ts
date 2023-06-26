@@ -14,7 +14,7 @@ export interface Mutate<R> extends MutateData<R>, MutateFunction<R> {}
 
 export type State<R, P> = {
   loading: Ref<boolean>;
-  data: Ref<R | undefined>;
+  data: Ref<R>;
   error: Ref<Error | undefined>;
   params: Ref<P>;
 };
